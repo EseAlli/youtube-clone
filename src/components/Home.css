@@ -1,0 +1,10 @@
+.home {
+  margin-top: 0;
+}
+.home-content {
+  margin-top: 10%;
+  max-width: 80%;
+  background-color: #dcdcdc;
+  display: inline-block;
+  margin-left: 15%;
+}

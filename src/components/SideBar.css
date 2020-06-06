@@ -1,0 +1,25 @@
+.nav-side ul {
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+.nav-side ul li {
+  margin-bottom: 15%;
+  padding-left: 25%;
+}
+.nav-side hr {
+  color: #dcdcdc;
+  margin-bottom: 15px;
+}
+.nav-side {
+  display: inline-block;
+  width: 14%;
+  margin-top: 2.5%;
+  background-color: white;
+  position: fixed;
+}
+.nav-container {
+  display: inline;
+  max-width: 15%;
+  margin-right: 0;
+  background-color: white;
+}

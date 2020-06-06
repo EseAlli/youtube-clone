@@ -1,0 +1,47 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.nav {
+  font-family: "Roboto, Arial, sans-serif";
+  margin-top: 0;
+  background-color: white;
+}
+
+#container {
+  margin-top: 0;
+  position: fixed;
+  min-width: 100%;
+  background-color: white;
+}
+
+.start {
+  display: inline;
+  margin-left: 1%;
+  font-size: 1.2rem;
+}
+
+.hamburger {
+  cursor: default;
+}
+
+.fa-bars {
+  margin-right: 1.6%;
+  color: #696969;
+  border: 0;
+}
+
+.end {
+  display: inline;
+  margin-left: 19%;
+  color: #696969;
+}
+
+.end a {
+  margin-right: 2%;
+}
+
+.fa-youtube {
+  color: red;
+}
