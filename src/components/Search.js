@@ -8,7 +8,7 @@ class Search extends Component {
           placeholder="Search"
           style={{
             width: "38%",
-            height: "25px",
+            height: "28px",
             marginLeft: "17%",
             fontSize: "0.99rem",
           }}
@@ -16,11 +16,11 @@ class Search extends Component {
         <button
           style={{
             width: "4%",
-            height: "32.359px",
+            height: "28px",
             textAlign: "center",
           }}
         >
-          <i style={{ color: "#C0C0C0" }} class="fas fa-search"></i>
+          <i style={{ color: "#C0C0C0" }} className="fas fa-search"></i>
         </button>
       </div>
     );
